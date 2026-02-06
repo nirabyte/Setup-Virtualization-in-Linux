@@ -1,3 +1,3 @@
-# Setting up Virtual Machines in QEMU on Arch Linux
+# Setting up Virtual Machine in QEMU with virt manager on Arch Linux
 
 chmod it before running 
