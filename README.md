@@ -1,3 +1,3 @@
-# Setting up Virtual Machine in QEMU on Arch Linux
+# Setting up Virtual Machine in QEMU on Linux
 
 Remember to chmod before running 
